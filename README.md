@@ -4,7 +4,7 @@ Seja bem vindo(a) à oitava Semana Javascript Expert. Este é o código inicial 
 
 Marque esse projeto com uma estrela 🌟 e acesse o nosso [grupo oficial no WhatsApp](https://l.erickwendel.com.br/jse8-grupo)
 ## Preview
-<img width=100% src="./initial-template/demo.gif">
+
 
 ## Pre-reqs
 
